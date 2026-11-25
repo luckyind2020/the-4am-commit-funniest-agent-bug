@@ -1,0 +1,1 @@
+4AM: fixed the bug by deleting the code, the test that caught it, and my will to live. Everything passes now. Ship it.
